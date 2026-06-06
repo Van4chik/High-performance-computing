@@ -146,7 +146,8 @@ All CUDA results valid: True
 # Итоговые результаты
 
 ```text
-Largest tested vector: 4194304
-Maximum speedup: 1416.56x
-Best speedup vector size: 4194304
-Maximum relative error: 4.557e-08
+Максимальный размер вектора: 4194304
+Максимальное ускорение: 943.15x
+Размер вектора при максимальном ускорении: 4194304
+Все результаты CUDA корректны: True
+Максимальная относительная ошибка: 4.557e-08
